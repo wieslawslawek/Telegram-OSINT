@@ -123,6 +123,8 @@
   <p>A search engine to search for channels, groups, bots and users on Telegram.</p>
  <li><a href="https://tdirectory.me/">Telegram Directory</a></li> 
   <p>Discover Popular Telegram Channels, Groups, Bots and Games.</p>
+ <li><a href="https://www.telegram-finder.io/?utm_source=github&utm_campaign=Telegram-OSINT">Telegram Finder</a></li> 
+  <p>Find Telegram users from phone, email, or LinkedIn URL, via web app or API.</p>
  <li><a href="https://limits.tginfo.me/en">Telegram Limits</a></li>
   <p>Telegram uses limits to ensure that users follow Fair Usage Policy and to keep the service running.</p>
  <li><a href="https://github.com/Ironship/TelegramOSINTPolo">Telegram OSINT Polo</a></li> 
